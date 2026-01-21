@@ -1,0 +1,16 @@
+Graph,Algorithm,Prec@50,Prec@100,Recall@100
+Caltech36.gml,Common Neighbors,0.98,0.98,0.05885885885885886
+Caltech36.gml,Jaccard,0.88,0.91,0.054654654654654654
+Caltech36.gml,Adamic/Adar,0.98,0.98,0.05885885885885886
+Reed98.gml,Common Neighbors,0.96,0.92,0.04891015417331207
+Reed98.gml,Jaccard,0.82,0.88,0.04678362573099415
+Reed98.gml,Adamic/Adar,0.96,0.94,0.049973418394471024
+Bucknell39.gml,Common Neighbors,0.98,0.99,0.006231902303915397
+Bucknell39.gml,Jaccard,1.0,0.99,0.006231902303915397
+Bucknell39.gml,Adamic/Adar,0.98,0.99,0.006231902303915397
+Rice31.gml,Common Neighbors,1.0,1.0,0.005410669840926307
+Rice31.gml,Jaccard,0.98,0.99,0.005356563142517043
+Rice31.gml,Adamic/Adar,1.0,1.0,0.005410669840926307
+Vassar85.gml,Common Neighbors,0.98,0.98,0.008224236320913058
+Vassar85.gml,Jaccard,0.98,0.98,0.008224236320913058
+Vassar85.gml,Adamic/Adar,0.98,0.98,0.008224236320913058
